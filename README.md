@@ -2,7 +2,7 @@
 
 # Forecasting Net Prophet
 
-To predict search traffic and translate successfully trade the stock.
+To predict search traffic and translate successfully trade the stock of MercadoLibre.
 
 ## Technologies
 
@@ -34,16 +34,20 @@ datetime
 matplotlib
 pathlib
 warnings
-
-
 Julpyter Lab needs to be installed through Anaconda.
 
 
 ### Usage
 
+<<<<<<< HEAD
+ This project can be used for analysing the performance to crpto performance
+!['Mercado Trends Forecast'](Mercado_Trends_Forecast.PNG)
+!['Mercado Trends Heatmap'](Mercado_Trends_Heatmap.PNG)
+=======
  This project can be used for forecasting stock price based on search trends in future.
 !['Mercado Trends Heatmap'](Mercado_Trends_Heatmap.PNG)
 !['Mercado Trends Forecast'](Mercado_Trends_Forecast.PNG)
+
 
 ## Contributors
 
